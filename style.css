@@ -1,0 +1,40 @@
+    h1{
+        color:orange;
+
+    }
+    .rect{
+       background-color: green; 
+       display: flex;
+       justify-content: space-between;
+    }
+    /*.link{ 
+        display: flex;
+        flex-direction: column;
+        justify-content: first baseline;
+        background-color: #00eeff;
+    }
+    .link2{ 
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: first baseline;
+        background-color: #AE3269;
+    }*/
+
+    .link{
+        position: relative;
+    }
+    .footer{
+        display: flex;
+        justify-content: flex-end;
+    }
+
+
+    body{
+        background-color: #FC5548; 
+    }
+    a:link{
+        color: cyan;
+    }
+a:visited{
+    color:violet
+}
